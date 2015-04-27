@@ -1,5 +1,5 @@
 <suite name = "Smoke">
-	<test name = "login">
+	<test name = "Google">
 		<classes>
 			<class name = "com.testframework.testscripts.GmailLogin"/>
 			<class name = "com.testframework.testscripts.GmailLogout"/>
