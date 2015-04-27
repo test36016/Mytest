@@ -1,9 +1,8 @@
-<suite name = "Smoke">
-	<test name = "Google">
+<suite name = "Gmail">
+	<test name = "Email">
 		<classes>
 			<class name = "com.testframework.testscripts.GmailLogin"/>
 			<class name = "com.testframework.testscripts.GmailLogout"/>
-			<class name = "com.testframework.testscripts.SearchGoogle"/>
 		</classes>
 	</test>
 </suite>

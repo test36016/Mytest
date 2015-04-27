@@ -41,7 +41,7 @@
 	          <version>2.18.1</version>
 	          <configuration>
 	            <suiteXmlFiles>
-	              <suiteXmlFile>test-suites/SmokeTest.xml</suiteXmlFile>
+	              <suiteXmlFile>test-suites/${suiteXmlFile}</suiteXmlFile>
 	            </suiteXmlFiles>
 	          </configuration>
 	        </plugin>

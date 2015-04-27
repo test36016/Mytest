@@ -1,0 +1,7 @@
+<suite name = "Google">
+	<test name = "Search">
+		<classes>
+			<class name = "com.testframework.testscripts.SearchGoogle"/>
+		</classes>
+	</test>
+</suite>
